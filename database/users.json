@@ -1,0 +1,372 @@
+[{
+  "_id": {
+    "$oid": "5fd634e1bdb12208804b63e2"
+  },
+  "role": 1,
+  "history": [],
+  "name": "bafode camara",
+  "email": "bafodecamara@gmail.com",
+  "salt": "e75c14c0-3d58-11eb-a7ec-3f6fb80ec488",
+  "hashed_password": "d49ae5190769a577d645084bc0c5b960f0eca15a",
+  "createdAt": {
+    "$date": "2020-12-13T15:36:01.311Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-13T15:36:01.311Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd749fc65e17a3c845d9ffb"
+  },
+  "role": 1,
+  "history": [],
+  "name": "bafode camara",
+  "email": "root@gmail.com",
+  "salt": "1246a7e0-3dfe-11eb-bc7f-2d8ac342f562",
+  "hashed_password": "50b7bca21ac0389208d7b2e9277f071c1acc35cb",
+  "createdAt": {
+    "$date": "2020-12-14T11:18:20.256Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-14T11:18:20.256Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fdc94c669ed4c037c3fd8bb"
+  },
+  "role": 0,
+  "history": [],
+  "name": "bafode",
+  "email": "bafod@gmail.com",
+  "salt": "96b23970-4125-11eb-aed4-05679008abc0",
+  "hashed_password": "88182ba9ee62498bb6e948e6618287266e34043b",
+  "createdAt": {
+    "$date": "2020-12-18T11:38:46.288Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T11:38:46.288Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe64c596b4f3e115ba61f49"
+  },
+  "role": 1,
+  "history": [
+    {
+      "_id": "5fe5bc15d0be81183491d7ae",
+      "name": "Be delicious",
+      "description": "Dkny Be Delicious Edp 100 Ml Kadın Parfüm",
+      "category": {
+        "_id": "5fdf40302da11a2b9c1bbaf6",
+        "name": "Parfum"
+      },
+      "quantity": "5",
+      "transaction_id": "0xcfeev0",
+      "amount": "129.00"
+    },
+    {
+      "_id": "5fe5c383d0be81183491d7b7",
+      "name": "Black opium",
+      "description": "Black opium men parfum",
+      "category": {
+        "_id": "5fdf40302da11a2b9c1bbaf6",
+        "name": "Parfum",
+        "createdAt": "2020-12-20T12:14:40.952Z",
+        "updatedAt": "2020-12-20T12:14:40.952Z",
+        "__v": 0
+      },
+      "quantity": 1,
+      "transaction_id": "0xcfeev0",
+      "amount": "129.00"
+    }
+  ],
+  "name": "theophile",
+  "email": "theo@gmail.com",
+  "salt": "4ca32df0-46f0-11eb-a672-33689b79bfd3",
+  "hashed_password": "015f8dcda405c8b8254a5997854f9c6d9e6bd9a8",
+  "createdAt": {
+    "$date": "2020-12-25T20:32:25.687Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-02T19:54:46.822Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fea06924d916e1fe80cba4e"
+  },
+  "role": 0,
+  "history": [],
+  "name": "Therno Balde",
+  "email": "thierno@gmail.com",
+  "salt": "0f29da60-4929-11eb-91e8-8bbf414e37c7",
+  "hashed_password": "4f43cf9445e74dbbe38e4eba3a450bbac5e76237",
+  "createdAt": {
+    "$date": "2020-12-28T16:23:46.184Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-28T16:23:46.184Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6012a91c8e20824eb3f4146c"
+  },
+  "strategy": {
+    "type": "local"
+  },
+  "role": 0,
+  "profileImage": "profile_6012a91c8e20824eb3f4146c.jpg",
+  "isEmailConfirmed": false,
+  "twoFactorEnable": true,
+  "name": "bafode",
+  "email": "bafodecamara1998@gmail.com",
+  "password": "$2a$10$byrkkaEz/6rp8IPjFsq.u.F7UIjRdDYyFBysDsyDTgExonHa6eqbi",
+  "surname": "camara",
+  "createdAt": {
+    "$date": "2021-01-28T12:07:56.375Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-28T12:42:01.563Z"
+  },
+  "__v": 0,
+  "confirmEmailToken": "4fd6f871cbcc807a331e4ca888430eed30955be726a1685d39128a86c8c76294"
+},{
+  "_id": {
+    "$oid": "6012c9af89bbf66dde5d5af9"
+  },
+  "role": 0,
+  "history": [],
+  "name": "arsen",
+  "email": "arsen@gmail.com",
+  "salt": "df6682b0-6174-11eb-90e6-c7a6482cc33e",
+  "hashed_password": "6efd9c127a97ef94f0fc72950b0ca7743c914281",
+  "createdAt": {
+    "$date": "2021-01-28T14:26:55.713Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-28T14:26:55.713Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6012c9dc89bbf66dde5d5afa"
+  },
+  "role": 0,
+  "history": [],
+  "name": "faouzy",
+  "email": "faouzy@gmail.com",
+  "salt": "f9ef4400-6174-11eb-90e6-c7a6482cc33e",
+  "hashed_password": "653ce1663ea37915bc2f496c7cb7261ffedb5725",
+  "createdAt": {
+    "$date": "2021-01-28T14:27:40.225Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-28T14:27:40.225Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6012cb6289bbf66dde5d5afb"
+  },
+  "role": 0,
+  "history": [],
+  "name": "alibey",
+  "email": "ali@gmail.com",
+  "salt": "e259dca0-6175-11eb-90e6-c7a6482cc33e",
+  "hashed_password": "673f0c985f0036ac5e63e1f5c827edbf45f0d580",
+  "createdAt": {
+    "$date": "2021-01-28T14:34:10.155Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-28T14:34:10.155Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6012d5e389bbf66dde5d5afc"
+  },
+  "role": 0,
+  "history": [],
+  "name": "wahap",
+  "email": "wahao@gmail.com",
+  "salt": "25664370-617c-11eb-90e6-c7a6482cc33e",
+  "hashed_password": "3b350fbb50bc46148c926e6194c3afb758d47496",
+  "createdAt": {
+    "$date": "2021-01-28T15:18:59.625Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-28T15:18:59.625Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60132b4430a01b43bdabe7a9"
+  },
+  "role": 0,
+  "history": [],
+  "name": "bafo",
+  "email": "bafo@gmail.com",
+  "salt": "08e357a0-61af-11eb-8334-6f15a7adc55b",
+  "hashed_password": "57b14f3e372c3d077378a69a4dfff4a34583583a",
+  "createdAt": {
+    "$date": "2021-01-28T21:23:16.128Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-28T21:23:16.128Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6017cb4adaadc91661b9ffc3"
+  },
+  "role": 0,
+  "history": [],
+  "name": "ardino",
+  "email": "ardino@gmail.com",
+  "salt": "c4d1f160-6470-11eb-a0a9-e3b363c9ba4e",
+  "hashed_password": "4144d70e5b85a3b26f32c2b785cf38dd1ee1d7dd",
+  "createdAt": {
+    "$date": "2021-02-01T09:35:06.645Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-01T09:35:06.645Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6017cbf5daadc91661b9ffc4"
+  },
+  "role": 0,
+  "history": [],
+  "name": "bibigonza",
+  "email": "bibi@gmail.com",
+  "salt": "dd0e41a0-6fa8-11eb-aa18-4f58ab9e9b6b",
+  "hashed_password": "b2e8e1184f96d4b3087d6b5bed6855ec4c24fde8",
+  "createdAt": {
+    "$date": "2021-02-01T09:37:57.975Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-29T10:32:21.339Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60194e189b67ec4816901907"
+  },
+  "role": 0,
+  "history": [
+    {
+      "_id": "5fe5c383d0be81183491d7b7",
+      "name": "Black opium",
+      "description": "Black opium men parfum",
+      "category": {
+        "_id": "5fdf40302da11a2b9c1bbaf6",
+        "name": "Parfum",
+        "createdAt": "2020-12-20T12:14:40.952Z",
+        "updatedAt": "2020-12-20T12:14:40.952Z",
+        "__v": 0
+      },
+      "quantity": 1,
+      "transaction_id": "fvzkkmbz",
+      "amount": "4.00"
+    }
+  ],
+  "name": "alibey",
+  "email": "ali123@gmail.com",
+  "salt": "2a50fe90-8b14-11eb-befb-5785c0c08a6e",
+  "hashed_password": "6231b9bb44cc878a9076b506378eabf8c0cc2ba9",
+  "createdAt": {
+    "$date": "2021-02-02T13:05:28.731Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-22T13:40:29.060Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "601a956751cf194bec8afa72"
+  },
+  "role": 0,
+  "history": [],
+  "name": "arsen",
+  "email": "arsene@gmail.com",
+  "salt": "6999c4c0-661a-11eb-910e-83ceeb93f2bd",
+  "hashed_password": "39ef3ba6ef50d0fa3c1052566a01067bd066c1d0",
+  "createdAt": {
+    "$date": "2021-02-03T12:21:59.188Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-08T15:33:38.953Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605899fb900fea292549d9f8"
+  },
+  "role": 1,
+  "history": [
+    {
+      "_id": "6058a79cd8005232af23ffc6",
+      "name": "Nivea Pump Sprey Women",
+      "description": "Nivea deodorant fresh pompalı sprey, ferahlık veren 24 saat etkili deodorant koruması ve nivea’nın yumuşak bakımını bir araya getirmektedir.Doğal, hafif ve ferahlık veren bir kokusu vardır.",
+      "category": {
+        "_id": "60101fd84bf6161110f701d8",
+        "name": "nivea",
+        "user": "5fe64c596b4f3e115ba61f49",
+        "createdAt": "2021-01-26T13:57:44.615Z",
+        "updatedAt": "2021-01-26T13:57:44.615Z",
+        "__v": 0
+      },
+      "quantity": 1,
+      "transaction_id": "p1yt0mxe",
+      "amount": "40.00"
+    },
+    {
+      "_id": "6058a79cd8005232af23ffc6",
+      "name": "Nivea Pump Sprey Women",
+      "description": "Nivea deodorant fresh pompalı sprey, ferahlık veren 24 saat etkili deodorant koruması ve nivea’nın yumuşak bakımını bir araya getirmektedir.Doğal, hafif ve ferahlık veren bir kokusu vardır.",
+      "category": {
+        "_id": "60101fd84bf6161110f701d8",
+        "name": "Womens",
+        "user": "5fe64c596b4f3e115ba61f49",
+        "createdAt": "2021-01-26T13:57:44.615Z",
+        "updatedAt": "2021-01-26T13:57:44.615Z",
+        "__v": 0
+      },
+      "quantity": 1,
+      "transaction_id": "10pqkn17",
+      "amount": "40.00"
+    },
+    {
+      "_id": "6058a79cd8005232af23ffc6",
+      "name": "Nivea Pump Sprey Women",
+      "description": "Nivea deodorant fresh pompalı sprey, ferahlık veren 24 saat etkili deodorant koruması ve nivea’nın yumuşak bakımını bir araya getirmektedir.Doğal, hafif ve ferahlık veren bir kokusu vardır.",
+      "category": {
+        "_id": "60101fd84bf6161110f701d8",
+        "name": "Womens",
+        "user": "5fe64c596b4f3e115ba61f49",
+        "createdAt": "2021-01-26T13:57:44.615Z",
+        "updatedAt": "2021-01-26T13:57:44.615Z",
+        "__v": 0
+      },
+      "quantity": 1,
+      "transaction_id": "5d03zp60",
+      "amount": "40.00"
+    }
+  ],
+  "name": "bafode",
+  "email": "admin@gmail.com",
+  "salt": "978e91a0-8b11-11eb-95ca-f95c160e2570",
+  "hashed_password": "f800705d8da0f6d53fcbb06a06fc5aee818fd0d8",
+  "createdAt": {
+    "$date": "2021-03-22T13:22:03.839Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-29T10:30:38.981Z"
+  },
+  "__v": 0
+}]
